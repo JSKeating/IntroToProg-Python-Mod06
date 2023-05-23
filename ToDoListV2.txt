@@ -1,0 +1,8 @@
+Walk the dog, Med
+Organize desk, Low
+Call cable company, Low
+Clean the house, Low
+Laundry, High
+Fluff Pillows, Med
+Shower, Low
+Upload to GitHub, High
